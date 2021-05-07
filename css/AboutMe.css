@@ -158,7 +158,7 @@ div.img-area {
 }
 
 /* Responsive web design */
-/* ถ้าความกว้างของขนาดหน้าจอน้อยกว่า 780px */
+/* ถ้าความกว้างของขนาดหน้าจอน้อยกว่า 960px */
 @media  (min-width: 960px) {
     .gallery{
         grid-template-columns: repeat(5, 1fr);
