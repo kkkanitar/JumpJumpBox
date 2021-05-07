@@ -92,6 +92,7 @@ body{
 
 
 /*resposive*/
+/* ถ้าความกว้างของขนาดหน้าจอน้อยกว่า 1140px */
 @media (max-width:1140px) {
     #game{
         position: absolute;
@@ -121,6 +122,7 @@ body{
 
 
 /*resposive*/
+/* ถ้าความกว้างของขนาดหน้าจอน้อยกว่า 600px */
 @media (max-width:600px) {
     #game{
         position: absolute;
