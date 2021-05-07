@@ -78,6 +78,7 @@ header {
 }
 
 /*resposive*/
+/* ถ้าความกว้างของขนาดหน้าจอน้อยกว่า 1140px */
 @media (max-width:1140px) {
 	.wrapper {
 		width: 100%;
@@ -113,6 +114,7 @@ header {
 
 
 /*resposive*/
+/* ถ้าความกว้างของขนาดหน้าจอน้อยกว่า 600px */
 @media (max-width:600px) {
 	.wrapper {
 		width: 100%;
